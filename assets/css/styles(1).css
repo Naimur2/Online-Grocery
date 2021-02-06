@@ -1,0 +1,114 @@
+.cartsub {
+  background: #a9ab1b;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  height: 100vh;
+}
+
+.vinod {
+  text-align: left;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #ffffff;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  margin-top: 15px;
+  height: 56px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.heado {
+  border-width: 0px;
+  background: rgb(255,255,255);
+  padding-bottom: 0px;
+  margin-top: 50px;
+}
+
+.range {
+  padding: 0px;
+  padding-right: 5px;
+  padding-left: 5px;
+  height: 70px;
+}
+
+.cartdet {
+  padding: 0px;
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-size: 16px;
+  font-weight: 600;
+  height: 70px;
+}
+
+.dekete {
+  padding: 0px;
+  text-align: center;
+  margin-right: 0px;
+  margin-left: 5px;
+  height: 70px;
+  padding-left: 0px;
+  padding-right: 10px;
+}
+
+.total {
+  padding: 0px;
+  width: 242px;
+  height: 40px;
+}
+
+.product {
+}
+
+.product-col {
+  margin-bottom: 10px;
+}
+
+@media (min-width: 300px) {
+  .reveal {
+    position: relative;
+    z-index: 3;
+    bottom: 32px;
+    left: 92%;
+  }
+}
+
+@media (min-width: 576px) {
+  .reveal {
+    position: relative;
+    z-index: 3;
+    bottom: 32px;
+    left: 95%;
+  }
+}
+
+@media (min-width: 768px) {
+  .reveal {
+    position: relative;
+    z-index: 3;
+    bottom: 32px;
+    left: 95%;
+  }
+}
+
+@media (min-width: 992px) {
+  .reveal {
+    position: relative;
+    z-index: 3;
+    bottom: 32px;
+    left: 95%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .reveal {
+    position: relative;
+    z-index: 3;
+    bottom: 32px;
+    left: 95%;
+  }
+}
+
